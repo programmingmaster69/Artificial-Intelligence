@@ -1,0 +1,2 @@
+Right-Click on AI.py --> Click on Open with... --> Choose Default Program --> Click on more options --> Look for another
+app on PC --> Go to Directory where AI.py is present --> Go to scripts --> Search for 'python.exe' --> Select it --> Enjoy!!!
